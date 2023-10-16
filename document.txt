@@ -1,0 +1,5 @@
+link: https://preview.colorlib.com/theme/eventotemplate/
+font-family: barlow , mitr 
+
+color: heading- #FFBD00;  no- #FF60CE writing- #fff  para- #9B9EAC;
+
